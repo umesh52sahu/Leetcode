@@ -1,1 +1,1 @@
-​
+just change the remaining element to zero after removing zero's from the arrey
