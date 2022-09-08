@@ -1,0 +1,1 @@
+try to focus on the Note statement because it is the main condition
