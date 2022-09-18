@@ -14,7 +14,7 @@ public class Solution {
        if(head==null){
            return false;
        } else{
-                ListNode fast;
+                ListNode fast=new ListNode();
                 ListNode slow = new ListNode();
                 slow = head;
            
