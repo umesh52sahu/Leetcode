@@ -30,10 +30,13 @@ class GFG {
 
 class Solution {
     //Just print the space seperated array elements
-    void printArray(int arr[], int n) {
+    void printArray(int[] arr, int n) {
         //   code here
-        for(int i=0;i<n;i++){
-            System.out.print(arr[i] + " ");
+        if(n==0){
+            return;
         }
+        printArray(arr, n-1);
+        System.out.print(arr[n-1]+ " ");
+        
     }
 }
