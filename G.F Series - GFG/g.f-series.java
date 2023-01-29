@@ -37,7 +37,7 @@ class Solution{
         System.out.println();
     }
     public long gf(int N){
-        if(N==1 || N == 0){
+        if(N==0 || N == 1){
             return N;
         }
         
