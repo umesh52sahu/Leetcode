@@ -22,7 +22,7 @@ So, the answer is <strong>PERFECT</strong>.
 
 <p><br>
 <span style="font-size:18px"><strong>User Task:</strong><br>
-The task is to complete the function <strong>IsPerfect()</strong>, which takes an&nbsp;array <strong>(a)</strong>, size of the array <strong>(n), </strong>and return the boolean value <strong>true</strong> if it Perfect else <strong>false</strong>. The <strong>drivercode automatically </strong>adds a <strong>new line</strong>.</span></p>
+The task is to complete the function <strong>IsPerfect()</strong>, which takes an&nbsp;array <strong>(a)</strong>, size of the array <strong>(n), </strong>and return the boolean value <strong>true</strong> if it is Perfect else <strong>false</strong>.&nbsp;</span></p>
 
 <p><span style="font-size:18px"><strong>Expected Time Complexity:</strong>&nbsp;O(N).<br>
 <strong>Expected Auxiliary Space:</strong>&nbsp;O(1).</span></p>
